@@ -1,4 +1,3 @@
-import Luxury from "./components/Luxuosos"
 import Luxuosos from "./components/Luxuosos"
 import Sedans from "./components/Sedans"
 import Suvs from "./components/Suvs"
